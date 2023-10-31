@@ -1,0 +1,47 @@
+Requirement
+
+What’s full form of SRS?
+Ans: System Requirement Specification
+Why SRS is important in Manual Testing?
+Ans: helps to ensure that the system or application is developed to
+     meet the needs of the user.
+What is Use Cases?
+Ans:it is a methodology used in system analysis to identify, clarify and
+    organize system requirements.
+What are Non-functional Requirement in SRS?
+Ans:set of specifications that describe the systems operation capabilities
+    and constraints and attempt to improve its functionality.
+Design an Use Case Diagram? Describe briefly.
+Ans: it describe the high level functions and scope of a system, use of case diagram 
+     is a tool that maps interactions between users and systems to show the interactions
+     between them
+
+Test Cases
+
+What is a Test Case?
+Ans:the actions required to verify a specific feature or functionality in software testing.
+List out level of Test Cases? What are fields of a Test case Template?
+Ans:>unit testing
+    >system testing
+    >integration testing
+    >acceptance testing
+    fields of test cases template are test case id, test secenario, test case, pre condition,
+    test steps, test data, expected result, actual result, status.
+Write test cases for Gmail Login? Give at least 5 examples?
+Ans:>enter valid first name, valid last name
+    >enter valid user name and valid password
+    >enter valid user name and invalid password
+    >enter invalid user name and valid password
+    >enter invalid user name and invalid password.
+What problems you face in writing test cases?
+Ans: communication issues, dealing with changes, missing documentation.
+What is called a good Test Case? What is a bad Test Case?
+Ans: a poor quality test gives little information something that was alreday known or 
+     worse gives nothing
+What are guidelines for writing Test Cases?
+Ans:it should be clarity and transparency
+What is Test Data? Why is it important?
+Ans:test data is a production like set of data used by test cases to determine whether an
+    application is working correctly.
+Develop Test cases for Flight Reservation Application?
+(Use standard guidelines to write your test cases. Cover all sections provided in SRS).
