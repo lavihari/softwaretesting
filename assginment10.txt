@@ -1,0 +1,11 @@
+java features:
+1. simple
+2. oops
+3. secure
+4. garbage collector
+5. mulittheraded
+6. platform independent
+7. portable
+8. high performance
+9. robust
+10.portable
